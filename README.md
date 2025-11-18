@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manasagorle
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Deep Learning 
+- 🌱 I’m Exploring  Models and experimenting  
 - Leaning makes me Happy 
 - Lets help each other
 
